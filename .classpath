@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/com.ibm.icu_77.1.0.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/com.ibm.icu_77.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/jakarta.annotation-api_2.1.1.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/jakarta.annotation-api_2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.core.commands_3.12.400.v20250312-0643.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.core.commands_3.12.400.v20250312-0643.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.core.runtime_3.33.100.v20250516-0931.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.core.runtime_3.33.100.v20250516-0931.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.e4.ui.di_1.5.600.v20250320-0558.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.e4.ui.di_1.5.600.v20250320-0558.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.equinox.common_3.20.100.v20250506-0427.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.equinox.common_3.20.100.v20250506-0427.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.equinox.registry_3.12.400.v20250505-2005.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.equinox.registry_3.12.400.v20250505-2005.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.jface_3.37.0.v20250522-1428.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.jface_3.37.0.v20250522-1428.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.jface.text_3.28.0.v20250520-1938.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.jface.text_3.28.0.v20250520-1938.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.osgi_3.23.100.v20250514-1759.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.osgi_3.23.100.v20250514-1759.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.130.0.v20250528-1759.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.130.0.v20250528-1759.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.text_3.14.300.v20250119-1501.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.text_3.14.300.v20250119-1501.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.ui.forms_3.13.500.v20250519-0741.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.ui.forms_3.13.500.v20250519-0741.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TyF/.p2/pool/plugins/org.eclipse.ui.workbench_3.135.100.v20250517-0909.jar" sourcepath="C:/Users/TyF/.p2/pool/plugins/org.eclipse.ui.workbench_3.135.100.v20250517-0909.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
